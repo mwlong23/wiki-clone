@@ -1,3 +1,6 @@
+.top-banner {
+  margin-top: 80px;
+}
 
 .col-sm-2 {
   padding-left: 0;
@@ -63,21 +66,3 @@ img {
 .left-col p{
       padding-left: 15px;
 }
-
-
-/*NAVIGATION - START*/
-.navigation {
-  margin-top: 70px;
-}
-
-.fa-search{
-    position: relative;
-    left: 298px;
-    top: -25px;
-}
-
-.form-control {
-  width: 320px !important;
-}
-
-/*NAVIGATION - END*/
