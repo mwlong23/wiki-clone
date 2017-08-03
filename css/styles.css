@@ -72,12 +72,13 @@ img {
 
 .fa-search{
     position: relative;
-    left: 298px;
-    top: -25px;
+    left: -24px;
+    top: 2px;
 }
 
 .form-control {
   width: 320px !important;
+  position: relative;
 }
 
 /*NAVIGATION - END*/
